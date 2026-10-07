@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "235431503324",
+    "project_id": "fir-flutter-f1226",
+    "storage_bucket": "fir-flutter-f1226.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235431503324:android:02cd0c24562f2b2f4c5b19",
+        "android_client_info": {
+          "package_name": "com.example.centralmissoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235431503324-15bt27s4ahlb2dsq4sfp53s2sd74dkts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKPFmcBwc4phu1TVT-9r7Lu7KOE-aunU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235431503324-15bt27s4ahlb2dsq4sfp53s2sd74dkts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235431503324-l4ftb15fjq6keps7fdj44j27q7e1kbps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.centralmissoes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235431503324:android:d90029d2723d9d134c5b19",
+        "android_client_info": {
+          "package_name": "com.example.fire_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235431503324-15bt27s4ahlb2dsq4sfp53s2sd74dkts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKPFmcBwc4phu1TVT-9r7Lu7KOE-aunU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235431503324-15bt27s4ahlb2dsq4sfp53s2sd74dkts.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235431503324-l4ftb15fjq6keps7fdj44j27q7e1kbps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.centralmissoes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
